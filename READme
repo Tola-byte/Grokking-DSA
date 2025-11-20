@@ -1,0 +1,22 @@
+
+Grokking C++ — Learning & Projects
+=================================
+
+This repository is my personal C++ learning workspace. It's split into three main areas so I can study algorithms, keep notes, and build projects.
+
+Structure
+---------
+- `grokking-algorithms/`: Data Structures & Algorithms — practice implementations and problem-solving exercises.
+	- Example subfolders: `binary_search`, `graphs`, `dynamic_programming`, `trees`, etc.
+- `learning-C++/`: Notes and short example files used while learning C++ features and idioms (constructors, templates, RAII, STL, etc.).
+- `projects/`: Small projects and exercises where I apply what I learn (e.g., `student_average`).
+
+- If you're using the included VS Code task, open the C++ file you want to compile and run the task `C/C++: clang build active file`.
+
+How I use this repo
+--------------------
+- Learn a concept in `learning-C++/` and create a minimal example.
+- Practice problem solving in `grokking-algorithms/` and commit working solutions.
+- Build small apps in `projects/` to combine concepts and demonstrate progress.
+
+— Tola

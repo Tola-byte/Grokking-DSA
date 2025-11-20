@@ -1,6 +1,6 @@
-#include <iostream>
+// simple average calculator
 
-//#include <vector>
+#include <iostream>
 
 
 class Student{
